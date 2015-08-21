@@ -1,7 +1,3 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
-
 class Quicksort {
     var theArray: [Int] = []
     func switching(first: Int, second: Int) {
