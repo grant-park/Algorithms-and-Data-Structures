@@ -1,1 +1,1 @@
-I made a couple changes (marked with comments) in point_pair.py in order to accommodate some minor implementations in my code.
+Run the find_closest.py with an input file from the points folder or an input of your own in the same format. The module will find you the closest pair of points in a set within O(nlogn) time.
