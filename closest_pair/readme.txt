@@ -1,1 +1,1 @@
-Run the find_closest.py with an input file from the points folder or an input of your own in the same format. The module will find you the closest pair of points in a set within O(nlogn) time.
+Run find_closest.py with an input file from the points folder or an input of your own in the same format. The module will find you the closest pair of points in a set within O(nlogn) time.
